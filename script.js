@@ -1,6 +1,6 @@
 jwplayer("my-video").setup({
-	file: "https://content.jwplatform.com/videos/Wf8BfcSt-kNspJqnJ.mp4",
-	image: "https://www.hbo.com/content/dam/hbodata/series/game-of-thrones/episodes/8/key-art/got-s8-ka-1920x1080.jpg/_jcr_content/renditions/cq5dam.web.1200.675.jpeg",
+	file: "trailer.mp4",
+	image: "https://www.themoviedb.org/t/p/original/4nXqYVnUJImG0HOAQ2QIryknuMC.jpg",
 	primary: "html5",
 	advertising: {
 		client: "vast",
